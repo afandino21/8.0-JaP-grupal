@@ -1,0 +1,94 @@
+{
+    "catID": 1,
+    "catName": "Musica",
+    "products": [
+        {
+            "id": 1,
+            "name": "Never Gonna Give You Up",
+            "description": "El Clasico Rick Roll",
+            "author": "Rick Astley",
+            "cost": 100,
+            "currency": "USD",
+            "soldCount": 45000,
+            "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+            "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/08/d411fd39-0622-443e-8082-8783ccf386c8.jpg?fit=1200%2C675&quality=50&strip=all&ssl=1"
+        },
+        {
+            "id": 2,
+            "name": "Waiting For Love",
+            "description": "Monday Left Me Broken",
+            "author": "Avicii",
+            "cost": 85,
+            "currency": "USD",
+            "soldCount": 10000,
+            "link": "https://www.youtube.com/shorts/KKlT6kReCZs",
+            "image": "https://media.tenor.com/reNDJpIztC0AAAAd/monday-left-me-broken-cat-monday-left-me-broken.gif"
+        },
+        {
+            "id": 3,
+            "name": "Bury the Light",
+            "description": "I am the storm that is approaching",
+            "author": "Casey Edwards",
+            "cost": 12500,
+            "currency": "USD",
+            "soldCount": 10500,
+            "link": "https://www.youtube.com/watch?v=Jrg9KxGNeJY",
+            "image": "https://i.ytimg.com/vi/RlWa53ms7XA/maxresdefault.jpg"
+        },
+        {
+            "id": 4,
+            "name": "In the Air Tonight",
+            "description": "Temazo!!.",
+            "author": "Phil Collins",
+            "cost": 150,
+            "currency": "USD",
+            "soldCount": 17000,
+            "link": "https://www.youtube.com/watch?v=Dhg_rjpvtME&ab_channel=Alltmor",
+            "image": "https://i.scdn.co/image/ab67616d0000b273f6954c1f074f66907a8c5483"
+        },
+        {
+            "id": 5,
+            "name": "Caramelldansen",
+            "description": "U U Ua Ua",
+            "author": "Caramella Girls",
+            "cost": 35,
+            "currency": "USD",
+            "soldCount": 59800,
+            "link": "",
+            "image": "https://i1.sndcdn.com/artworks-6WoDD93Q9AvD-0-t500x500.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Gangsta's Paradise",
+            "description": "I'm a educated fool with money on my mind",
+            "author": "Coolio",
+            "cost": 420,
+            "currency": "USD",
+            "soldCount": 12000,
+            "link": "https://www.youtube.com/watch?v=fPO76Jlnz6c&t=2s",
+            "image": "https://images.genius.com/691b44047ee0d7b8ef1ca842167dd4d6.1000x1000x1.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Antes y Despues",
+            "description": "ELECTRONICA",
+            "author": "Prem",
+            "cost": 35,
+            "currency": "USD",
+            "soldCount": 15000,
+            "link": "https://soundcloud.com/premmm/antes-y-despues",
+            "image": "https://i.pinimg.com/564x/27/9d/45/279d45b38eb0d00b27fd3fe80cb2f936.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Baka Mitai",
+            "description": "Dame da ne",
+            "author": "Yakuza",
+            "cost": 35,
+            "currency": "USD",
+            "soldCount": 150600,
+            "link": "https://www.youtube.com/watch?v=gSTVGZozwEc",
+            "image": "https://media.giphy.com/media/LpdlqTkgO2Lwwixwv7/giphy.gif"
+        }
+    ]
+}
